@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: HelloWorldProject, Configuration: Debug Any CPU ------
+1>C:\repos\HelloWorldSolution\HelloWorldProject\Student.cs(14,7,14,15): warning CS0169: The field 'Student.SATscore' is never used
+1>C:\repos\HelloWorldSolution\HelloWorldProject\Student.cs(13,10,13,13): warning CS0169: The field 'Student.GPA' is never used
+1>C:\repos\HelloWorldSolution\HelloWorldProject\Student.cs(15,8,15,16): warning CS0169: The field 'Student.IsFemale' is never used
+1>  HelloWorldProject -> C:\repos\HelloWorldSolution\HelloWorldProject\bin\Debug\HelloWorldProject.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
